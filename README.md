@@ -1,8 +1,15 @@
-# 👩‍💻 Hey there, I'm Doaa Magdy! 
-
-I am a **Data Scientist** and **Machine Learning Engineer** with a passion for creating intelligent solutions. With a strong academic foundation from **Helwan University** (B.Sc. in Computer Science, Class of 2025).
-
-I love exploring AI and building innovative projects that solve real-world challenges!
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align:middle;"/> Hey there, I'm Doaa Magdy! </h1>
+<table>
+  <tr>
+    <td>
+       I am a <b>Data Scientist</b> and <b>Machine Learning Engineer</b> with a passion for creating intelligent solutions. With a strong academic foundation from <b>Helwan University</b> (B.Sc. in Computer Science, Class of 2025).<br> <br> 
+      I love exploring AI and building innovative projects that solve real-world challenges! 
+    </td>
+     <td>
+      <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doaa-magdy)
